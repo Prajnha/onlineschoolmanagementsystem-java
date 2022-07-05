@@ -43,6 +43,13 @@ Glimpse of the data's stored in the backend **school** database using XAMPP:
 
 ![image](https://user-images.githubusercontent.com/86564238/177257877-ec2d528c-417e-494c-847c-b89b5b11402f.png)
 
+Student detail Page **Yet to create in table format**
+
+![image](https://user-images.githubusercontent.com/86564238/177258249-631a6be8-a499-4c40-bb64-be7b04288b5f.png)
+
+Teacher datails Page **Yet to create in table formate**
+
+![image](https://user-images.githubusercontent.com/86564238/177258455-9b5c4aae-97da-41b6-afaa-3f11549ec326.png)
 
 
 
