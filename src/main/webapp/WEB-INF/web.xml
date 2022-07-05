@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>login page</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+   <servlet>
+  <servlet-name>registerdemo</servlet-name>
+  <servlet-class>conn.loginpage.registerservlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>registerdemo</servlet-name>
+  <url-pattern>/register</url-pattern>
+  </servlet-mapping>
+   <servlet>
+  <servlet-name>logindemo</servlet-name>
+  <servlet-class>conn.loginpage.login_servlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>logindemo</servlet-name>
+  <url-pattern>/Login</url-pattern>
+  </servlet-mapping>  
+   <servlet>
+  <servlet-name>student registration</servlet-name>
+  <servlet-class>conn.loginpage.studentregistrationservlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>student registration</servlet-name>
+  <url-pattern>/studentregistration</url-pattern>
+  </servlet-mapping>  
+   <servlet>
+  <servlet-name>teacher registration</servlet-name>
+  <servlet-class>conn.loginpage.teacherregistrationservlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>teacher registration</servlet-name>
+  <url-pattern>/teacherregistration</url-pattern>
+  </servlet-mapping>
+</web-app>

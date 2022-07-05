@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+.home_main{
+	/* background-color:#e7dc18; */
+	background-color:cream;
+}
+.home_main_div{
+	/* margin-left:500px; */
+	text-align:center;
+}
+header{
+background:darkred;
+color:white;
+font:italic bold 30px san-serif;
+text-align:center;
+padding:10px;
+}
+button{
+	height:40px;
+	width:300px;
+	background-color:#2cb028;
+	color:white;
+}

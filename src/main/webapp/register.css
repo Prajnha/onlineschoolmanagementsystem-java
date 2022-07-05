@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+header{
+background:darkred;
+color:white;
+font:italic bold 30px san-serif;
+text-align:center;
+padding:10px;
+}
+footer{
+background:brown;
+color:white;
+font:italic bold 20px san-serif;
+text-align:center;
+padding:15px;
+
+}
+.formborder{
+/* border:dotted; */
+padding:20px;
+text-align:center;
+}
+p,a,h3{
+/* float:left; */
+padding:10px;
+text-align:center;
+}
