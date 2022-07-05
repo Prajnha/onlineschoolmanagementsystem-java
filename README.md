@@ -21,11 +21,12 @@ Validations in the forms are performed as below and are included in each forms o
 
 3.Pincode validation
 
-![image](https://user-images.githubusercontent.com/86564238/177255735-84a015b1-f9f0-42f1-8b17-5e64dc93e991.png)
+![image](https://user-images.githubusercontent.com/86564238/177259052-7ead4fb2-41f8-4d07-9008-f3cfb944377f.png)
 
 Student registration successful:
 
-![image](https://user-images.githubusercontent.com/86564238/177255943-f637b832-bc7d-4b7b-879a-72d4a87a5ea7.png)
+![image](https://user-images.githubusercontent.com/86564238/177259250-28fecb88-b7b7-4981-96e9-f795af6b51e1.png)
+
 
 ![image](https://user-images.githubusercontent.com/86564238/177257376-0e4fd2b1-62a2-4e68-8925-6903c42ccdf2.png)
 
